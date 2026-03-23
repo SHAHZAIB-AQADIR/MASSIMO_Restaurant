@@ -1,5 +1,5 @@
 "use client";
-export const dynamic = "force-dynamic"; // Vercel build error fix karne ke liye
+export const dynamic = "force-dynamic"; 
 
 import React, { useEffect, useState } from "react";
 import Link from "next/link";
